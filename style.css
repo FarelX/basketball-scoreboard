@@ -23,6 +23,9 @@ p {
   justify-content: space-around;
   background-color: #1b244a;
   padding: 50px;
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 100px;
 }
 
 .home-title,
