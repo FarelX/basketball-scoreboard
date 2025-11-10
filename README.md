@@ -20,5 +20,3 @@ This is a simple beginner-level project that creates a **basketball-themed conta
 - Centered container with themed visuals (colors, fonts, etc.)
 
 ---
-
-
