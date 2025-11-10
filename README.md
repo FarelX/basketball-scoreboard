@@ -8,7 +8,7 @@ This is a simple beginner-level project that creates a **basketball-themed conta
 
 ## 📸 Preview
 
-![Basketball Container Screenshot](https://github.com/FarelX/basketball-scoreboard/blob/main/Screenshot%202025-08-17%20053223.png)
+![Basketball Container Screenshot](https://github.com/FarelX/basketball-scoreboard/blob/main/Screenshot%202025-11-10%20184430.png)
 
 ---
 
