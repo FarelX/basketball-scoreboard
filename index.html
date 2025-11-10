@@ -4,20 +4,23 @@
   </head>
   <body>
     <div class="container">
-      <div>
-        <h3 class="home-title">HOME</h3>
-        <p class="home-score" id="home-score">0</p>
-        <button class="button" onclick="addOne()">+1</button>
-        <button class="button" onclick="addTwo()">+2</button>
-        <button class="button" onclick="addThree()">+3</button>
+      <div class="teams">
+        <div>
+          <h3 class="home-title">HOME</h3>
+          <p class="home-score" id="home-score">0</p>
+          <button class="button" onclick="addOne()">+1</button>
+          <button class="button" onclick="addTwo()">+2</button>
+          <button class="button" onclick="addThree()">+3</button>
+        </div>
+        <div>
+          <h3 class="guest-title">GUEST</h3>
+          <p class="guest-score" id="guest-score">0</p>
+          <button class="button" onclick="addOneGuest()">+1</button>
+          <button class="button" onclick="addTwoGuest()">+2</button>
+          <button class="button" onclick="addThreeGuest()">+3</button>
+        </div>
       </div>
-      <div>
-        <h3 class="guest-title">GUEST</h3>
-        <p class="guest-score" id="guest-score">0</p>
-        <button class="button" onclick="addOneGuest()">+1</button>
-        <button class="button" onclick="addTwoGuest()">+2</button>
-        <button class="button" onclick="addThreeGuest()">+3</button>
-      </div>
+      <button class="button reset" onclick="resetGame()">RESET</button>
     </div>
     <script src="script.js"></script>
   </body>
